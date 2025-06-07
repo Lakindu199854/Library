@@ -1,0 +1,32 @@
+form label{
+    color: white;
+}
+
+.CreateUserButton {
+    border-radius: 0; /* Set the border-radius to 0 for square edges */
+  }
+
+p{
+    color: green;
+}
+
+.error_message{
+    color: red;
+}
+
+h1{
+    color: aquamarine;
+}
+
+.loginSuccessMessage{
+    color: red;
+}
+
+.Container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100vh; /* Adjust the height as needed */
+  }
+
+  
